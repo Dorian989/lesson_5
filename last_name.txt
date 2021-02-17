@@ -1,0 +1,10 @@
+Ivanov 23679
+Petrov 13984
+Vavilov 15894
+Mironov 39103
+Andropov 12950
+Kilin 12000
+Miroshnichenko 21000
+Salova 25000
+Bannikov 23983
+Bukovadze 17400
